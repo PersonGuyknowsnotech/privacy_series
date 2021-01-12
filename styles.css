@@ -1,0 +1,37 @@
+body {
+background-color:#ffffff;
+text-align:left;
+}
+
+h1 {
+color:#6b6a6a;
+font-family:cooper;
+font-size:60px;
+font-weight:bold;
+text-align:center;
+}
+
+h2 {
+color:#07333A;
+font-family:arial;
+font-size:40px;
+
+h3 {
+color:1d6d6c;
+font-family:arial;
+font-size:35px;
+}
+
+p {
+color:#191919;
+font-family:calibri;
+font-size:28px
+}
+
+a {
+background-color:133337;
+color:CACACA;
+font-family:courier;
+font-size:25px;
+border-radius:15px;
+}
