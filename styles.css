@@ -17,19 +17,19 @@ text-align:left;
 .headline {
   color:#383838;
   font-family: arial;
-  font-size: 7vw;
+  font-size: 6.2vw;
 }
 
 h2 {
  color:#636262;
  font-family: 'Lato', sans-serif;
- font-size: 6vw;
+ font-size: 5.1vw;
 }
 
 h3 {
  color:#716e6e;
  font-family: 'Lato', sans-serif;
- font-size: 3vw;
+ font-size: 4vw;
 }
 
 .number1 {
@@ -81,17 +81,25 @@ h3 {
  font-weight:bold;
 }
 
+.number8 {
+ color:#545454;
+ font-family: 'Inter', sans-serif;
+ font-size: 2.9vw;
+ font-weight:bold;
+}
+
+
 .drive {
- background-color:#133337;
- color:#CACACA;
- font-family: arial;
- font-size: 11px, 2.9vw;
- border-radius:10px;
+  background-color:#133337;
+  color:#CACACA;
+  font-family: arial;
+  font-size: 2.9vw;
+  border-radius:10px;
 }
 
 a {
- color: grey;
- font-family: 'Lato', sans-serif;
- font-size: 2.9vw;
- border-radius:10px;
+  color: grey;
+  font-family: "Lato", sans-serif;
+  font-size: 2.9vw;
+  font-weight: bold;
 }
