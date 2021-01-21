@@ -97,6 +97,22 @@ h3 {
   border-radius:10px;
 }
 
+.link-btn {
+ background-color: #133337;
+ font-family: 'Lato',cursive;
+ font-size: 135%;
+ color: #ffffff;
+ border-radius: 6.5px;
+ }
+
+.link-btn a:hover {
+ background-color: #144e56;
+ font-family: 'Lato',cursive;
+ font-size: 135%;
+ color: #ffffff;
+ border-radius: 6.5px;
+ }
+
 a {
   color: grey;
   font-family: "Lato", sans-serif;
