@@ -62,7 +62,6 @@ h3 {
  color:#545454;
  font-family: 'Inter', sans-serif;
  font-size: 140%;
- font-weight:bold;
 }
 
 .number6 {
@@ -76,13 +75,6 @@ h3 {
  font-family: 'Inter', sans-serif;;
  font-size: 140%;
 }
-
-.number8 {
- color:#545454;
- font-family: 'Inter', sans-serif;
- font-size: 140%;
-}
-
 
 .footer {
   background-color: #414141;
