@@ -89,12 +89,9 @@ h3 {
 }
 
 
-.drive {
-  background-color:#133337;
-  color:#CACACA;
-  font-family: arial;
-  font-size: 2.9vw;
-  border-radius:10px;
+.footer {
+  background-color: #414141;
+  padding: 20px;
 }
 
 .link-btn {
@@ -113,6 +110,12 @@ h3 {
  border-radius: 6.5px;
  }
 
+
+.text {
+ color:#ffffff;
+ font-family: 'Lato', sans-serif;
+ font-size: 110%;
+}
 a {
   color: grey;
   font-family: "Lato", sans-serif;
