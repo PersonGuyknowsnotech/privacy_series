@@ -9,7 +9,7 @@ text-align:left;
   padding: 20px;
   text-align: center;
   font-family: 'Anton', sans-serif;
-  font-size: 3.6vw;
+  font-size: 160%;
   color:#c7c7c7;
 }
 
@@ -17,75 +17,70 @@ text-align:left;
 .headline {
   color:#383838;
   font-family: arial;
-  font-size: 6.2vw;
+  font-size: 159%;
 }
 
 h2 {
  color:#636262;
  font-family: 'Lato', sans-serif;
- font-size: 5.1vw;
+ font-size: 155%;
+  font-weight: bold
 }
 
 h3 {
  color:#716e6e;
  font-family: 'Lato', sans-serif;
- font-size: 4vw;
+ font-size: 150%;
+ font-weight: bold;
 }
 
 .number1 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 3vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 .number2 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 2.9vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 .number3 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 2.9vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 .number4 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 2.9vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 .number5 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 2.9vw;
+ font-size: 140%;
  font-weight:bold;
 }
 
 .number6 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 2.9vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 .number7 {
  color:#545454;
  font-family: 'Inter', sans-serif;;
- font-size: 2.9vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 .number8 {
  color:#545454;
  font-family: 'Inter', sans-serif;
- font-size: 2.9vw;
- font-weight:bold;
+ font-size: 140%;
 }
 
 
@@ -112,13 +107,14 @@ h3 {
 
 
 .text {
- color:#ffffff;
+ color:#545454;
  font-family: 'Lato', sans-serif;
  font-size: 110%;
 }
+
 a {
   color: grey;
   font-family: "Lato", sans-serif;
-  font-size: 2.9vw;
-  font-weight: bold;
+  font-size: 140%;
+
 }
