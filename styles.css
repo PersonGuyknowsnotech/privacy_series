@@ -4,12 +4,13 @@ text-align:left;
 }
 
 /* header */
-.header {
+.
+header {
   background-color: #414141;
   padding: 20px;
   text-align: center;
   font-family: 'Anton', sans-serif;
-  font-size: 125%;
+  font-size: 5.5vw;
   color:#c7c7c7;
 }
 
@@ -76,7 +77,7 @@ h3 {
  font-size: 140%;
 }
 
-.footer {
+footer {
   background-color: #414141;
   padding: 20px;
 }
