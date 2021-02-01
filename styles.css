@@ -97,6 +97,12 @@ footer {
  border-radius: 6.5px;
  }
 
+/* for series */
+.things {
+ color:#545454;
+ font-family: 'Inter', sans-serif;
+ font-size: 140%;
+}
 
 .text {
  color:#ffffff;
