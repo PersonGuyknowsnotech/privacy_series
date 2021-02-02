@@ -8,16 +8,26 @@ header {
   background-color: #414141;
   padding: 30px;
   text-align: center;
-  font-family: 'Anton', sans-serif;
-  font-size: 5.1vw;
   color:#c7c7c7;
 }
 
+.subtext {
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 105%;
+  color:#c7c7c7;
+}
+ .logo {
+   background-color: #9a9a9a;
+   color: #636363;
+   font-family: 'Anton', sans-serif;
+   font-size: 5.1vw;
+}
 /* content */
 .headline {
-  color:#383838;
+  color: #c7c7c7;
   font-family: arial;
-  font-size: 159%;
+  font-size: 4.1vw;
 }
 
 h2 {
