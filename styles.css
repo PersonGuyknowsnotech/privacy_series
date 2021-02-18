@@ -24,7 +24,30 @@ header {
    font-family: 'Anton', sans-serif;
    font-size: 5.1vw;
 }
+  
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
 
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+  
 /* content */
 .headline {
   color: #c7c7c7;
