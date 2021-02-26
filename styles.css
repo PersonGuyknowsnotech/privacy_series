@@ -19,7 +19,9 @@ header {
   color:#c7c7c7;
 }
  .logo {
-   background-color: #9a9a9a;
+   border-style: solid;
+   border-width: thick;
+   width: 40%;
    color: #636363;
    font-family: 'Anton', sans-serif;
    font-size: 5.1vw;
